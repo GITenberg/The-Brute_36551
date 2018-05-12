@@ -1,0 +1,35 @@
+_repo: The-Brute_36551
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Snapp, Frank
+    gutenberg_agent_id: '35560'
+    url: http://www.gutenberg.org/2009/agents/35560
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kummer, Frederic Arnold
+    alias: Fredericks, Arnold
+    birthdate: 1873
+    deathdate: 1943
+    gutenberg_agent_id: '33949'
+    url: http://www.gutenberg.org/2009/agents/33949
+description: ''
+gutenberg_issued: '2011-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PS'
+title: The Brute
+url: http://www.gutenberg.org/ebooks/36551
